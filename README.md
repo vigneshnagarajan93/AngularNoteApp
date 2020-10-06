@@ -1,0 +1,2 @@
+# AngularNoteApp
+Practice Angular project
